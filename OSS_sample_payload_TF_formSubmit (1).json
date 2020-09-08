@@ -1,0 +1,16 @@
+{
+  "last_name" : "Doe",
+  "first_name": "John",
+  "user_id" : "Unique User Ident",
+  "datetime_submit" : "2020-07-08T07:59:00Z",
+  "squadron" : "VFA-123",
+  "self_altitude_meters" : 5000,
+  "contact_altitude_meters" : 4000,
+  "self_windspeed_kts" : 25,
+  "self_wind_direction" : 180,
+  "contact_windspeed" : 40,
+  "contact_wind_direction" : 200,
+  "objects_in_group" : 5,
+  "contact_latitude" : 12.1234,
+  "contact_longitude" : 150.1234
+}

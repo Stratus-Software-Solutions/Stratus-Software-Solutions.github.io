@@ -33,7 +33,7 @@ hr.solid {
     letter-spacing: 4px;
     margin-right: auto;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 60px;
     line-height: 2em;
     font-size: 41px;
     background-color: black;
@@ -307,7 +307,7 @@ input[type=text] {
 	text-align: center;
 }
 #header_logo {
-	width: 130%;
+    width: 70%;
 }
 .form_container {
     width: 270px;
@@ -394,7 +394,7 @@ select {
 	padding-left: 0px;
 }
 #header_logo {
-	width: 44%;
+    width: 68%;
 }
 .form_container #form1 #colorpicker {
     width: 75px;
@@ -425,7 +425,7 @@ select {
 	width: 80%;
 }
 #header_logo {
-    width: 16%;
+    width: 25%;
 }
 .form_container {
     width: 676px;
